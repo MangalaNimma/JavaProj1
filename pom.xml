@@ -49,13 +49,23 @@
          </configuration>
 
 
-        <executions>
-          <execution>
+      <!--Added goal repackage -->
+           <plugin>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-maven-plugin</artifactId>
+    <configuration>
+        <mainClass>com.places.Main</mainClass>
+    </configuration>
+    <executions>
+        <execution>
             <goals>
                 <goal>repackage</goal>
             </goals>
-           </execution>
-        </executions>  
+        </execution>
+    </executions>
+</plugin>
+<!-- end  -->
+          
           
         </plugin>
         <plugin>
