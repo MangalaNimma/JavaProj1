@@ -78,7 +78,7 @@
              <mainClass>com.mypackage.MyClass</mainClass>
             </manifest>
           </archive>
-        </configuration>
+         </configuration>
         
 
 
