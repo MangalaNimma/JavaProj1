@@ -1,3 +1,5 @@
+package com.example.App;
+
 class App{
     public static void main (String arg[ ])
         {
