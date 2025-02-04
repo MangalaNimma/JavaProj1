@@ -76,7 +76,7 @@
             <configuration>  
                 <archive>  
                     <manifest>  
-                        <mainClass>main.java.2</mainClass>  
+                        <mainClass>com.gouri.App</mainClass>  
                     </manifest>  
                 </archive>  
             </configuration>  
