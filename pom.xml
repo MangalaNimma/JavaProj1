@@ -76,7 +76,7 @@
             <configuration>  
                 <archive>  
                     <manifest>  
-                        <mainClass>2</mainClass>  
+                        <mainClass>main.java.2</mainClass>  
                     </manifest>  
                 </archive>  
             </configuration>  
